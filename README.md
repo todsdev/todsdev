@@ -7,6 +7,37 @@
 </div>
 
 ##
+  
+### Projects
+  
+  [All Repositories](https://github.com/todsdev?tab=repositories)
+  
+<details>
+  <summary>Newest Projects</summary>
+  
+  ### Kotlin
+  1. [Pokémon](https://github.com/todsdev/Project-Pokemon-App)
+  2. [Doc Reminder](https://github.com/todsdev/Project-DocReminder-App)
+  3. [Notes](https://github.com/todsdev/Project-Notes-App)
+  4. [Room](https://github.com/todsdev/TechnicalChallenge-Rooms-App)
+  5. [Weather](https://github.com/todsdev/TechnicalChallenge-WeatherInformation-App)
+  6. [Marvel](https://github.com/todsdev/Kotlin-Marvel-App)
+  7. [Giphy](https://github.com/todsdev/TechnicalChallenge-Giphy-App)
+
+</details>
+  
+<details>
+  <summary>Older Projects</summary>
+  
+  ### Java
+  1. [WhatsApp Clone](https://github.com/todsdev/JAVA-WhatsApp-Clone)
+  
+  ### Kotlin
+  1. [OLX Clone](https://github.com/todsdev/Kotlin-OLX-Clone)
+
+</details>
+  
+##
 
 ### Android Developer
 <div style="display: inline_block"><br>
