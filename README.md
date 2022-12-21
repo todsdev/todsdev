@@ -17,7 +17,7 @@
   
   ### Kotlin
   1. [Pokémon](https://github.com/todsdev/Project-Pokemon-App)
-  2. [Doc Reminder](https://github.com/todsdev/Project-DocReminder-App)
+  2. [Doc Reminder](https://github.com/todsdev/Readme-Project-DocReminder)
   3. [Notes](https://github.com/todsdev/Project-Notes-App)
   4. [Room](https://github.com/todsdev/TechnicalChallenge-Rooms-App)
   5. [Weather](https://github.com/todsdev/TechnicalChallenge-WeatherInformation-App)
