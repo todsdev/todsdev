@@ -8,6 +8,14 @@
 
 ##
   
+  
+##
+  
+### Officially Published Apps
+  1. Doc Reminder - [Google Play Store](https://play.google.com/store/apps/details?id=com.tods.docreminder) | [Readme](https://github.com/todsdev/Readme-Project-DocReminder)
+  
+##
+  
 ### Projects
   
   [All Repositories](https://github.com/todsdev?tab=repositories)
