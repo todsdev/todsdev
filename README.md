@@ -31,6 +31,7 @@
   5. [Weather](https://github.com/todsdev/TechnicalChallenge-WeatherInformation-App)
   6. [Marvel](https://github.com/todsdev/Kotlin-Marvel-App)
   7. [Giphy](https://github.com/todsdev/TechnicalChallenge-Giphy-App)
+  8. [Marvel 2.0](https://github.com/todsdev/Readme-TechnicalChallenge-Marvel/blob/main/README.md)
 
 </details>
   
