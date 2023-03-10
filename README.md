@@ -13,6 +13,7 @@
   
 ### Officially Published Apps
   1. Doc Reminder - [Google Play Store](https://play.google.com/store/apps/details?id=com.tods.docreminder) | [Readme](https://github.com/todsdev/Readme-Project-DocReminder)
+  2. Tibia Library - [Google Play Store](https://play.google.com/store/apps/details?id=com.tods.tibia) | [Readme](https://github.com/todsdev/Readme-Project-TibiaLibrary)
   
 ##
   
@@ -32,6 +33,7 @@
   6. [Marvel](https://github.com/todsdev/Kotlin-Marvel-App)
   7. [Giphy](https://github.com/todsdev/TechnicalChallenge-Giphy-App)
   8. [Marvel 2.0](https://github.com/todsdev/Readme-TechnicalChallenge-Marvel/blob/main/README.md)
+  9. [Tibia Library](https://github.com/todsdev/Readme-Project-TibiaLibrary)
 
 </details>
   
